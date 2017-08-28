@@ -1,5 +1,12 @@
 # executable
 a.out
+demo
 
 # object files
 *.o
+
+# Makefile
+Makefile
+
+# qmake files
+.qmake.stash
